@@ -104,6 +104,8 @@ Raw and processed data exchange
                   │      Dashboard      │
                   └─────────────────────┘
 
+📂 Repository Structure
+```
 Data_Analysis_exam/
 │
 ├── 📁 data/
@@ -133,9 +135,11 @@ Data_Analysis_exam/
 │   ├── 📄 queries.sql
 │   └── 📄 setup.sql
 │
-├── 🎥 Student_Assessment_Data_Analysis_meet_mehta_12237.mp4
+│
+├── 📄 Student_Assessment_Data_Analysis_meet_mehta_12237.mp4
 ├── 📄 requirements.txt
 └── 📄 .gitignore.txt
+```
 
 ## 🎥 Project Video Presentation
 
