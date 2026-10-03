@@ -104,8 +104,6 @@ Raw and processed data exchange
                   │      Dashboard      │
                   └─────────────────────┘
 
-📂 Repository Structure
-
 Data_Analysis_exam/
 │
 ├── 📁 data/
@@ -135,10 +133,28 @@ Data_Analysis_exam/
 │   ├── 📄 queries.sql
 │   └── 📄 setup.sql
 │
-│
-├── 📄 Student_Assessment_Data_Analysis_meet_mehta_12237.mp4
+├── 🎥 Student_Assessment_Data_Analysis_meet_mehta_12237.mp4
 ├── 📄 requirements.txt
 └── 📄 .gitignore.txt
+
+## 🎥 Project Video Presentation
+
+Want to see the complete project explanation?
+
+I have also included a **2-minute video presentation** explaining the complete data analysis workflow, tools used, key findings, and Power BI dashboard.
+
+📹 **Video:** `Student_Assessment_Data_Analysis_meet_mehta_12237.mp4`
+
+The video covers:
+
+* 📊 Project overview
+* 🐍 Python data cleaning & analysis
+* 🗄️ SQL analysis
+* 📗 Excel analysis
+* 📈 Power BI dashboard
+* 💡 Key project insights
+* 📂 GitHub project structure
+
 
 🧹 Data Cleaning & Preparation
 
